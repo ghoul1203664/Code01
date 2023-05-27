@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MoondrinkBoo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BooChairDown0000" x="4" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0001" x="4" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0002" x="169" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0003" x="169" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0004" x="334" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0005" x="334" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0006" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0007" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0008" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0009" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0010" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0011" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0012" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0013" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0014" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0015" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0016" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0017" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0018" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown0019" x="499" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0000" x="4" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0001" x="4" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0002" x="664" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0003" x="664" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0004" x="829" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0005" x="829" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0006" x="994" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0007" x="994" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0008" x="4" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0009" x="4" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0010" x="829" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0011" x="829" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0012" x="994" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0013" x="994" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0014" x="4" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0015" x="4" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0016" x="829" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0017" x="829" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0018" x="994" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairDown miss0019" x="994" y="4" width="153" height="298"/>
+	<SubTexture name="BooChairIdle0000" x="169" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0001" x="169" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0002" x="322" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0003" x="322" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0004" x="475" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0005" x="475" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0006" x="628" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0007" x="628" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0008" x="781" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0009" x="781" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0010" x="781" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0011" x="781" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0012" x="781" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0013" x="781" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairIdle0014" x="781" y="314" width="141" height="298"/>
+	<SubTexture name="BooChairRight0000" x="934" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairRight0001" x="934" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairRight0002" x="1099" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairRight0003" x="1099" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairRight0004" x="4" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0005" x="4" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0006" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0007" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0008" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0009" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0010" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0011" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0012" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0013" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0014" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0015" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0016" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0017" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0018" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight0019" x="169" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0000" x="934" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0001" x="934" y="314" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0002" x="334" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0003" x="334" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0004" x="499" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0005" x="499" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0006" x="664" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0007" x="664" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0008" x="829" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0009" x="829" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0010" x="499" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0011" x="499" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0012" x="664" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0013" x="664" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0014" x="829" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0015" x="829" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0016" x="499" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0017" x="499" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0018" x="664" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairRight miss0019" x="664" y="624" width="153" height="298"/>
+	<SubTexture name="BooChairUp0000" x="994" y="624" width="151" height="298"/>
+	<SubTexture name="BooChairUp0001" x="994" y="624" width="151" height="298"/>
+	<SubTexture name="BooChairUp0002" x="4" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0003" x="4" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0004" x="167" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0005" x="167" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0006" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0007" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0008" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0009" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0010" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0011" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0012" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0013" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0014" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0015" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0016" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0017" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0018" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp0019" x="330" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0000" x="994" y="624" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0001" x="994" y="624" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0002" x="493" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0003" x="493" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0004" x="656" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0005" x="656" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0006" x="819" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0007" x="819" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0008" x="982" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0009" x="982" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0010" x="656" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0011" x="656" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0012" x="819" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0013" x="819" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0014" x="982" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0015" x="982" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0016" x="656" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0017" x="656" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0018" x="819" y="934" width="151" height="298"/>
+	<SubTexture name="BooChairUp miss0019" x="819" y="934" width="151" height="298"/>
+</TextureAtlas>
